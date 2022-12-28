@@ -76,6 +76,8 @@ xnor(y6,a,b);
 nand(y7,a,b);
 endmodule
 Logic symbol & Truthtable
+![Screenshot (60)](https://user-images.githubusercontent.com/118423842/209837394-1d55754f-de72-45cc-9367-f4a21d88245d.png)
+
 RTL realization
 Output:
 RTL
